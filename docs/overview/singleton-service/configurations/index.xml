@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Configurations on Singleton</title>
-    <link>/docs/overview/singleton-service/configurations/</link>
+    <link>https://gong-yu.github.io/singleton/docs/overview/singleton-service/configurations/</link>
     <description>Recent content in Configurations on Singleton</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 24 Sep 2019 23:30:17 +0800</lastBuildDate>
     
-	<atom:link href="/docs/overview/singleton-service/configurations/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://gong-yu.github.io/singleton/docs/overview/singleton-service/configurations/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Enable Source Collection</title>
-      <link>/docs/overview/singleton-service/configurations/enable-source-collection/</link>
+      <link>https://gong-yu.github.io/singleton/docs/overview/singleton-service/configurations/enable-source-collection/</link>
       <pubDate>Tue, 24 Sep 2019 20:06:35 +0800</pubDate>
       
-      <guid>/docs/overview/singleton-service/configurations/enable-source-collection/</guid>
+      <guid>https://gong-yu.github.io/singleton/docs/overview/singleton-service/configurations/enable-source-collection/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Enable Pseudo Translation</title>
-      <link>/docs/overview/singleton-service/configurations/enable-pseudo-translation/</link>
+      <link>https://gong-yu.github.io/singleton/docs/overview/singleton-service/configurations/enable-pseudo-translation/</link>
       <pubDate>Tue, 24 Sep 2019 20:06:48 +0800</pubDate>
       
-      <guid>/docs/overview/singleton-service/configurations/enable-pseudo-translation/</guid>
+      <guid>https://gong-yu.github.io/singleton/docs/overview/singleton-service/configurations/enable-pseudo-translation/</guid>
       <description></description>
     </item>
     
