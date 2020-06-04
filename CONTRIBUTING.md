@@ -1,7 +1,5 @@
 # How to contribute to Singleton documentation?
 
-Please download and install Hugo following the instructions on https://gohugo.io/getting-started/quick-start/.
-
 Follow [Singleton contributing guideline](https://github.com/vmware/singleton/blob/master/CONTRIBUTING.md) to fork and clone Singleton project source code.
 
 Switch to website branch.
@@ -27,12 +25,5 @@ hugo new [document-name].md //e.g. hugo new docs/get-started/overview.md
 
 Please directly modify the contents in .md files under /content if needed using any markdown file editor.
 
-After your modification is done, please run the following command to publish the update to Singleton website.
-
-```bash
-./publish_to_ghpages.sh
-```
-
-After publish_to_ghpages.sh execution, the updated contents will be submit to your remote folded branch 'gh-pages', you should go to GitHub and merge the new content to https://github.com/vmware/singleton/tree/gh-pages, finally you will see the change on the website https://vmware.github.io/singleton/docs/
-
+After your modification is done, push your change to your fork project. Then go to GitHub and create PR to the upstream website branch. Once your PR is merged, the change will be automatcially deployed to the website https://vmware.github.io/singleton/docs/.
 
