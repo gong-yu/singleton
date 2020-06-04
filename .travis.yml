@@ -6,9 +6,7 @@ script:
   - hugo
 deploy:
   - provider: script
-    script:
-    - git clone --branch=devops https://github.com/vmware/singleton.git devops
-    - cd $TRAVIS_BUILD_DIR/devops/deploy/documentation/ && ./publish_to_ghpages.sh
+    script: ./publish_to_ghpages.sh
     skip_cleanup: true
     keep_history: true
     on:
